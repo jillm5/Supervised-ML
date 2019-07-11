@@ -1,4 +1,3 @@
-# hello-world
-hello world project
-would like to become top notch data scientist and do great stuff for the world
-i love twister ice lollies
+# Supervised ML
+Expore various techniques from the family of Supervised ML
+
